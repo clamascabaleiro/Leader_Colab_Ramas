@@ -17,4 +17,9 @@ public class ClaseColaborador {
     public void adios(){
         
     }
+    String nombre;
+    float numero;
+    String dni;
+    
+    
 }
