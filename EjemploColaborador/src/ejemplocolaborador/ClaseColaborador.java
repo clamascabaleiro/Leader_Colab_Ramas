@@ -14,4 +14,7 @@ public class ClaseColaborador {
     public void xd(){
         
     }
+    public void adios(){
+        
+    }
 }
