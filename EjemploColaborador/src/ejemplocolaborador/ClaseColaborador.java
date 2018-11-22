@@ -11,4 +11,7 @@ package ejemplocolaborador;
  */
 public class ClaseColaborador {
     // He creado una clase jeje
+    public void xd(){
+        
+    }
 }
